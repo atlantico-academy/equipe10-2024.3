@@ -1,9 +1,9 @@
-# <Título do projeto>
+# Exploração de Dados Médicos para Predição de Diabetes em Pacientes
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Este trabalho explora dados médicos e demográficos de pacientes, incluindo variáveis como idade, gênero e IMC, juntamente com o status de diabetes. O objetivo é analisar esses fatores para identificar tendências e construir modelos preditivos, visando estimar o risco de diabetes nos pacientes.
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
+ - José Almeida https://github.com/Tineto753
  - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
  - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
  - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
