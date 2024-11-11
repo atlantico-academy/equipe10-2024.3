@@ -1,5 +1,17 @@
-# Exploração de Dados Médicos para Predição de Diabetes em Pacientes
+# DataCare
+
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/1300783529243705364/1303916058163286086/Logo_DataCare_1.png?ex=67336cb5&is=67321b35&hm=9107c94a4d6c440dc4d7a9a5d25ae9e511f5a97375114bda2927e53453b291be&" />
+</p>
+
+## Exploração de Dados Médicos para Predição de Diabetes em Pacientes
 Este trabalho explora dados médicos e demográficos de pacientes, incluindo variáveis como idade, gênero e IMC, juntamente com o status de diabetes. O objetivo é analisar esses fatores para identificar tendências e construir modelos preditivos, visando estimar o risco de diabetes nos pacientes.
+
+## Graphical Abstract
+
+<p align="center">
+    <img src="graphical_abstract/graphical_abstract.jpg" />
+</p>
 
 ## Desenvolvedores
  - [Davi Aciole](https://github.com/DaviAciolee)
