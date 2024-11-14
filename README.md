@@ -1,7 +1,7 @@
 # DataCare
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1300783529243705364/1303916058163286086/Logo_DataCare_1.png?ex=67336cb5&is=67321b35&hm=9107c94a4d6c440dc4d7a9a5d25ae9e511f5a97375114bda2927e53453b291be&" />
+    <img src="docs/assets/images/Logo_DataCare_.png" />
 </p>
 
 ## Exploração de Dados Médicos para Predição de Diabetes em Pacientes
