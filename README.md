@@ -1,14 +1,14 @@
 # DataCare
 
 <p align="center">
-    <img src="docs/assets/images/Logo_DataCare_.png" />
+    <img src="docs/assets/images/Untitled design (1).png" />
 </p>
 
 ## Exploração de Dados Médicos para Predição de Diabetes em Pacientes
 Este trabalho explora dados médicos e demográficos de pacientes, incluindo variáveis como idade, gênero e IMC, juntamente com o status de diabetes. O objetivo é analisar esses fatores para identificar tendências e construir modelos preditivos, visando estimar o risco de diabetes nos pacientes.
 
 <p align="center">
-    <img src="graphical_abstract/graphical_abs1.png" />
+    <img src="graphical_abstract/graphical_abstract1.png" />
 </p>
 
 ## Desenvolvedores
@@ -23,7 +23,7 @@ Este trabalho explora dados médicos e demográficos de pacientes, incluindo var
 A diabetes é uma doença crônica que se caracteriza por uma produção insuficiente ou má absorção de insulina, o hormônio que regula a glicose no sangue. A prevenção e o controle da diabetes incluem uma alimentação equilibrada, atividade física e monitoramento regular dos níveis de glicose, visando evitar complicações mais graves, como problemas cardíacos, de visão e circulação. O entendimento de quais fatores mais contribuem para diagnóstico de diabetes e a possibilidade de prevê-los é essencial para a sociedade. Além de beneficiar os profissionais da saúde, o projeto colabora com informações para todos que vêm na diabetes um problema grave e que desejam se prevenir dela.
 
 <p align="center">
-    <img src="graphical_abstract/graphical_abs2.png" />
+    <img src="graphical_abstract/graphical_abstract2.png" />
 </p>
 
 ## Metodologia
