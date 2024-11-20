@@ -29,5 +29,4 @@ O projeto será divido em duas entregas, são elas:
 2. **Análise Comparativa de Modelos**: construção de modelos de aprendizado de máquina para previsão de casos de diabetes.
 
 ## Resultados Esperados
----
 É esperado a identificação das variáveis mais influentes para o diagnóstico por meio de análises de correlação. Com um modelo de melhor precisão, podemos prever a presença de diabetes em pacientes diversos. Portanto, esses resultados ajudarão a entender o perfil de pessoas com diabetes e a fornecer insights para intervenções mais direcionadas.
