@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+gender,Gênero do individuo,qualitativa,nominal
+age,Idade do individuo,quantitativa,continua
+hypertension,Individuo apresenta hipertensão,quantitativa,discreta
+heart_disease,Individuo apresenta doença cardiaca,quantitativa,discreta
+smoking_history,Historico de tabagismo,qualitativa,nominal
+bmi,IMC do individuo,quantitativa,continua
+HbA1c_level,Nivel da hemoglobina A1c,quantitativa,continua
+blood_glucose_level,Nivel de glicose no sangue,quantitativa,continua
+diabetes,Individuo apresenta diabetes,quantitativa,discreta
